@@ -10,8 +10,6 @@ layout: default
   <img src="{{ site.github.url }}/assets/img/{{ page.image.feature }}">
 {% endif %}
 
-{{ content }}
-
 <span class="post-date">
   Written on
   {% assign d = page.date | date: "%-d"  %}
@@ -29,6 +27,8 @@ layout: default
     {{ site.data.authors.primary.name }}
   {% endif %}
 </span>
+
+{{ content }}
 
 {% include social-sharing.html %}
 
