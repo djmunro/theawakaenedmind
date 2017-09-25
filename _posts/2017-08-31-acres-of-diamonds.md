@@ -5,8 +5,8 @@ author: "David Munro"
 categories: [Personal Growth]
 tags: [success,motivation]
 image:
-  feature: Acres-of-Diamonds.png
-  teaser: Acres-of-Diamonds.png
+  feature: acres-of-diamonds-teaser.png
+  teaser: acres-of-diamonds-teaser.png
   credit: ""
   creditlink: ""
 ---

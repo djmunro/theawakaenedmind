@@ -5,8 +5,8 @@ author: "David Munro"
 categories: [Personal Growth]
 tags: [success,motivation]
 image:
-  feature: earl-nightingale-the-strangest-secret.jpg
-  teaser: earl-nightingale-the-strangest-secret.jpg
+  feature: earl-nightingale-the-strangest-secret-teaser.jpg
+  teaser: earl-nightingale-the-strangest-secret-teaser.jpg
   credit: ""
   creditlink: ""
 ---
