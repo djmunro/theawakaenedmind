@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " Acres Of Diamonds"
+title: "Acres Of Diamonds: Part 1"
 author: "David Munro"
 categories: [Personal Growth]
 tags: [success,motivation]
