@@ -2,7 +2,7 @@
 layout: post
 title: "How Successful People Think"
 author: "David Munro"
-categories: journal
+categories: [Personal Growth]
 tags: [success,motivation]
 image:
   feature: become-what-you-think-about.jpg

@@ -2,7 +2,7 @@
 layout: post
 title: " Acres Of Diamonds"
 author: "David Munro"
-categories: journal
+categories: [Personal Growth]
 tags: [success,motivation]
 image:
   feature: Acres-of-Diamonds.png

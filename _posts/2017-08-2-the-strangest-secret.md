@@ -2,7 +2,7 @@
 layout: post
 title: "The Strangest Secret - 30 Day Test"
 author: "David Munro"
-categories: journal
+categories: [Personal Growth]
 tags: [success,motivation]
 image:
   feature: earl-nightingale-the-strangest-secret.jpg

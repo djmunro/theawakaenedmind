@@ -2,7 +2,7 @@
 layout: post
 title: "19 Minutes That Can Change your Life"
 author: "David Munro"
-categories: journal
+categories: [Personal Growth]
 tags: [success,motivation]
 image:
   feature: 20-minutes.jpg
