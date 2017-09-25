@@ -2,4 +2,5 @@
 layout: page
 title: About
 ---
-Lagrange is a minimalist Jekyll. It is intended to have a clean, content focused interface for blog writing. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-01-01-Welcome-to-Lagrange %}).
+
+The Awakened Mind is a personal project of mine, in which my intent is to mature and grow in my ability to write in a professional medium as well as share my love of personal growth, and development, and the pleathra of articles and videos, and sometimes **HIDDEN GEMS** I discover while on the journey!
