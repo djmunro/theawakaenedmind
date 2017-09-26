@@ -62,7 +62,7 @@ Also by changing your mental attitude takes care of two vitally important parts 
 
 So keep this thought in your mind as often as possible on and off the job.
 
-> Somewhere in your present work there lurks and opportunity which will Bring you everything you could possibly want for yourself and your Family. It will not be labeled opportunity. It will be hidden in common every day garments. Just like the dirty drinking cup which triggered the paper cup industry 
+> Somewhere in your present work there lurks an opportunity which will bring you everything you could possibly want for yourself and your family. It will not be labeled opportunity. It will be hidden in common everyday garments. Like the dirty drinking cup which started the paper cup industry.
 
 In closing, meditate and remember the following 12 points
 
