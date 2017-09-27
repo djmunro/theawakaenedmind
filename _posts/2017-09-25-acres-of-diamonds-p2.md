@@ -25,7 +25,7 @@ It is up to us to recognize and Prospect those diamonds.
 
 In order to begin prospecting the diamonds in our vocation, first begin by developing **intelligent objectivity**. Which really just means developing the ability to look at your job as a stranger would. A stranger who sees your job as an opportunity, a pasture that is much greener than his own.
 
-We can begin to do this by The following steps..
+We can begin to do this by the following steps..
 
 Starting at the beginning. Within the framework of what industry or what profession does your job fall under.
 
