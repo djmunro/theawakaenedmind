@@ -19,7 +19,7 @@ People who see their work as an opportunity for growth and development, are the 
 
 It takes creative imagination to realize that diamonds don't look like diamonds in their rough state. 
 
-> Great opportunities lurk in every aspect of our work in which do
+> "Great opportunities lurk in every aspect of our work in which do" -Earl Nightingale
 
 It is up to us to recognize and Prospect those diamonds. 
 

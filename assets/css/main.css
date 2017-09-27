@@ -54,33 +54,13 @@ img {
 
 blockquote {
   text-align: center;
-  /* border-left: 0.25rem solid #ccc; */
   margin: 1.5em 10px;
-  /* color: #999; */
-  color: #333;
-  font-weight: bold;
+  color: #222;
   font-size: 1.25em;
   padding: 0.5em 10px;
   quotes: "\201C""\201D""\2018""\2019";
 }
-blockquote:before {
-  /* color: #333; */
-  color: #333;
-  content: open-quote;
-  font-size: 3em;
-  line-height: 0.1em;
-  margin-right: 0.1em;
-  vertical-align: -0.4em;
-}
-blockquote:after {
-  /* color: #333; */
-  color: #333;
-  content: close-quote;
-  font-size: 3em;
-  line-height: 0.1em;
-  margin-left: 0.1em;
-  vertical-align: -0.4em;
-}
+
 blockquote p {
   display: inline;
 }
